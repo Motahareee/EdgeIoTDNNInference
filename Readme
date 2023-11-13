@@ -1,0 +1,42 @@
+---------------------------------
+inception_v3 completed: 99.94%
+ counter: 1563 average time :: 0.2488112539644052
+
+inception_v3: acc1: 71.46%, acc5: 89.97%
+total time: 1668.0959751605988
+---------------------------------
+vgg11 completed: 99.94%
+ counter: 1563 average time :: 0.02883971660318698
+
+vgg11: acc1: 60.45%, acc5: 83.04%
+total time: 1150.2009813785553
+---------------------------------
+vgg19 completed: 99.94%
+ counter: 1563 average time :: 0.038293777180267156
+
+vgg19: acc1: 63.83%, acc5: 85.63%
+total time: 2654.727247238159
+---------------------------------
+densenet121 completed: 99.94%
+ counter: 1563 average time :: 0.3020764274316496
+
+densenet121: acc1: 67.81%, acc5: 88.28%
+total time: 1420.482801914215
+---------------------------------
+densenet161 completed: 99.94%
+ counter: 1563 average time :: 0.9271060822487488
+
+densenet161: acc1: 71.73%, acc5: 90.68%
+total time: 3120.497121334076
+---------------------------------
+resnet18 completed: 99.94%
+ counter: 1563 average time :: 0.03015906400430378
+
+resnet18: acc1: 63.50%, acc5: 84.85%
+total time: 383.6803562641144
+---------------------------------
+resnet50 completed: 99.94%
+ counter: 1563 average time :: 0.14081233324183917
+
+resnet50: acc1: 69.69%, acc5: 89.31%
+total time: 1111.8773803710938
